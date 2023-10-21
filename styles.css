@@ -1,0 +1,122 @@
+h1{
+    padding-left: 40%;
+    
+}
+.bg{
+   border-bottom: 90%;
+   border-top: 10%;
+   border-right: 10%;
+   border-left: 10%;
+   display:grid;
+    background: wheat;
+}
+.card1{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:red;
+    
+}
+
+.card2{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:green;
+}
+.card3{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:violet;
+}
+.card4{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:indigo;
+}
+.card5{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:blue;
+}
+.card6{
+    padding: 10%;
+    width: 200px;
+    height:150px; 
+    background:yellow;
+}
+.card7{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:orange;
+    ;}
+.card8{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:brown;}
+.card9{
+    padding: 10%;
+    width: 200px;
+    height:150px;
+    background:purple;}
+    
+
+.card1:hover{
+    background:#0000FF;
+}
+.card2:hover{
+    background: pink;
+    background:#A52A2A;
+}
+.card3:hover{
+    background: pink;
+    background: #FF0000;
+}
+.card4:hover{
+    background: pink;
+    background:#FFFF00;
+}
+.card5:hover{
+    background: pink;
+    background:#FF00FF;
+}
+.card6:hover{
+    background: pink;
+    background:#FFC0CB;
+}
+.card7:hover{
+    background: pink;
+    background:#008080;
+}
+.card8:hover{
+    background: pink;
+    background:#0000FF;
+}
+.card9:hover{
+    background: pink;
+    background:#FF7F00;
+}
+.s{
+    width:auto;
+    height:auto;
+    size: 2%;
+    background: white;
+}
+.submit{
+    margin-left: 50%;
+    height: 50px;
+    width: 100px;
+}
+.cards1{
+    background: red;
+}
+
+
+
+
+
